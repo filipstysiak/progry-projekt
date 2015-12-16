@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assets/nap.png</file>
+        <file>endwindow.cpp</file>
+        <file>endwindow.h</file>
+        <file>gamewindow.cpp</file>
+        <file>gamewindow.h</file>
+        <file>main.cpp</file>
+        <file>mainwindow.cpp</file>
+        <file>mainwindow.h</file>
+        <file>numbers.cpp</file>
+        <file>numbers.h</file>
+        <file>assets/bcg.jpg</file>
+    </qresource>
+</RCC>
